@@ -8,7 +8,7 @@
 │   │   ├── config.py
 │   │   └── consts.py
 │   ├── database
-│   │   ├── conn.py # db 관리 -> 싱글턴
+│   │   ├── conn.py	# db session 관리 -> 싱글턴 패턴
 │   │   └── schema.py
 │   ├── routes
 │   │   ├── auth.py
