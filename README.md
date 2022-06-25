@@ -8,8 +8,8 @@
 │   │   ├── config.py
 │   │   └── consts.py
 │   ├── database
-│   │   ├── conn.py
-│   │   └── schema.py
+│   │   ├── conn.py # db 관리 -> 싱글턴
+│   │   └── schema.py
 │   ├── routes
 │   │   ├── auth.py
 │   │   └── index.py
