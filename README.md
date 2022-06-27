@@ -10,7 +10,7 @@
 │   ├── database
 │   │   ├── conn.py	# db session 관리 -> 싱글턴 패턴
 │   │   └── schema.py
-│   ├── middleware
+│   ├── middlewares
 │   │   └── trusted_hosts.py # 기존 starlette 모듈에 except_path 인자 재정의, aws 대비
 │   ├── routes
 │   │   ├── auth.py
