@@ -20,3 +20,33 @@
 ├── LICENSE
 └── README.md
 ```
+
+## TODO
+#### Install
+```bash
+git clone https://github.com/ojkk371/FastAPI-practice.git
+python3 -m pip install -e .
+```
+
+#### 1. 회원가입
+- 회원가입
+- 비밀번호 해시
+- DB 저장
+- JWT 생성
+- ID/PW 제거하고 QR 생체인증으로 바꿔보기
+
+
+#### 2. 로그인
+- 이메일로 로그인
+- QR코드로 로그인
+- 터치ID/페이스ID로 로그인
+
+#### 3. 로그인 유저 확인하는 미들웨어 생성
+#### 4. 에러 처리
+#### 5. 로깅
+#### 6. API 키 생성
+- 생성
+- 폐기
+- 재발급
+
+#### 7. ...
