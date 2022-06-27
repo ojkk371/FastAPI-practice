@@ -17,10 +17,12 @@
 │   │   └── index.py
 │   ├── utils
 │   │   └── logger.py
+│   ├── __about__.py
 │   ├── models.py
 │   └── main.py
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 └── setup.py
 ```
 
