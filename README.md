@@ -20,7 +20,8 @@
 │   ├── models.py
 │   └── main.py
 ├── LICENSE
-└── README.md
+├── README.md
+└── setup.py
 ```
 
 ## TODO
